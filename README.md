@@ -152,3 +152,18 @@ python install.py --target codex --scope project --project-dir .
 ## Лицензия
 
 MIT. См. [`LICENSE`](LICENSE).
+
+<!-- SAIFER_REPO_PASSPORT_BEGIN: #435 -->
+## Паспорт
+
+- **Что это:** **Aura Designer** — устанавливаемый sub-agent для Cursor, Claude Code и Codex, который превращает ссылку на сайт, скриншот, изображение или идею в глубокий `AURADESIGN.md` и полноценную адаптивную веб-страницу..
+- **Статус:** не знаю (работает / пауза / заморожено ❄️ / брошено — нет runtime-проверки).
+- **Где работает:** не знаю (сервер/ПК/сайт/облако не подтверждены).
+- **Как запустить или открыть:** [репозиторий](https://github.com/SaiferSMART/my_aura-designer); запуск приложения — не знаю (ищите инструкции в README).
+- **Связанные открытые PR:** [актуальный список](https://github.com/SaiferSMART/my_aura-designer/pulls?q=is%3Apr+is%3Aopen).
+- **Связанные открытые Issue:** [актуальный список](https://github.com/SaiferSMART/my_aura-designer/issues?q=is%3Aissue+is%3Aopen).
+- **Дата последнего изменения GitHub:** 2026-05-21T01:16:55Z (поле `pushed_at`, любая ветка; не равно проверке эксплуатации).
+- **Кто ведёт:** не знаю; владелец репозитория GitHub — `SaiferSMART`.
+- **Вопрос к владелице:** подтвердить статус, площадку, точку входа и фактического ведущего.
+- **Задание:** [Issue №435](https://github.com/SaiferSMART/saifer-ai-ops/issues/435).
+<!-- SAIFER_REPO_PASSPORT_END -->
